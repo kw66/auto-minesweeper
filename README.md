@@ -1,2 +1,2 @@
 # auto-minesweeper
-We add some new featuers and fix some bug.
+We add some new featuers and fix some bugs.
